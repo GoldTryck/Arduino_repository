@@ -6,7 +6,17 @@
     <ul>
         <li>
         <summary>Diagram:</summary>
-        <img src="/src/seven_segment_display_diagram.png">
+        <img src="src/seven_segment_display_diagram.png">
         </li>
-    </ul><br>
+    </ul>
+    <li>
+        <summary>💡🎛️ Led Controller:</summary>
+        Provide a full control over the led using a four pin momentary push button.
+        <ul>
+            <li>
+            <summary>Diagram:</summary>
+                <img src="src/led_controller_diagram.png">
+            </li>
+        </ul>
+    </li>
 <h3 align="right">-GoldTryck<h3>
