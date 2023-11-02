@@ -9,6 +9,7 @@
         <img src="src/seven_segment_display_diagram.png">
         </li>
     </ul>
+    </li>
     <li>
         <summary>💡🎛️ Led Controller:</summary>
         Provide a full control over the led using a four pin momentary push button.
@@ -16,6 +17,16 @@
             <li>
             <summary>Diagram:</summary>
                 <img src="src/led_controller_diagram.png">
+            </li>
+        </ul>
+    </li>
+    <li>
+        <summary>🎲🎛️ Dice with button Controller:</summary>
+        Provide a full control over the seven segment display using a four pin momentary push button.
+        <ul>
+            <li>
+            <summary>Diagram:</summary>
+                <img src="src/dice_simulator_button_diagram.png">
             </li>
         </ul>
     </li>
